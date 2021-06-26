@@ -3,7 +3,7 @@ Sample Quize Project
 
 
 apis - 
-http://localhost:8080/quize/addQuestions
-http://localhost:8080/quize/addOptions/{questionId}
-http://localhost:8080/quize/createQuize
-http://localhost:8080/quize/viewAllQuize
+1. http://localhost:8080/quize/addQuestions
+2. http://localhost:8080/quize/addOptions/{questionId}
+3. http://localhost:8080/quize/createQuize
+4. http://localhost:8080/quize/viewAllQuize
