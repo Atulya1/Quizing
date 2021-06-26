@@ -1,4 +1,4 @@
-# Quizing- 
+# Quizing
 Sample Quiz Project
 
 
