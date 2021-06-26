@@ -1,5 +1,5 @@
-# Quizing-
-Sample Quize Project
+# Quizing- 
+Sample Quiz Project
 
 
 apis - 
