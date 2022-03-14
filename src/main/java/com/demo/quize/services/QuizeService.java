@@ -22,7 +22,8 @@ public class QuizeService {
 		QuestionRepository.questions.put(q.getQuestionId(), q);
 		return q.getQuestionId();
 	}
-	
+	//testing git commands
+		//testing another command
 	public boolean addOptions(String questionId,Options options) {
 		OptionsRepository.options.put(questionId, options);
 		return true;
